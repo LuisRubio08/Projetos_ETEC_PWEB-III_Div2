@@ -1,0 +1,14 @@
+{"titulo":"valor"}
+
+select * from funcionarios where funnome like '%Zanata%'
+{"id":1,"nome":"Ricardo da Silva Zanata","email":"ricardoszanata@gmail.com"}
+
+select * from funcionarios
+[
+    {"
+    id":1.99,"nome":"Ricardo da Silva Zanata","email":"ricardoszanata@gmail.com"},
+    {"id":2,"nome":"João Luis Chagas Sanches","email":"johnnycrazy@gmail.com"},
+    {"id":3,"nome":"Alfredo Alexandre de Oliveira","email":"delphredo@gmail.com"},
+    {"id":4,"nome":"Ricardo Amorim","email":"amorindows@gmail.com"}
+]
+
